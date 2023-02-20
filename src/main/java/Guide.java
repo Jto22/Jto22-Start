@@ -3,7 +3,7 @@
  * manipulating in your code. It is purely informational, and you do NOT need to write or change anything in this
  * lab. The test cases for this lab will pass from the start.
  *
- * Java is a tricky language to learn, because performing even simple tasks can require the use of many keywords
+ * Jav is a tricky language to learn, because performing even simple tasks can require the use of many keywords
  * and concepts which you may be unfamiliar with. Don't worry about memorizing everything here - the concepts will
  * make sense in time. You can always refer back to this file as a general anatomy of the parts of Java.
  *
